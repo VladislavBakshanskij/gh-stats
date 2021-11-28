@@ -1,1 +1,2 @@
 ![Vladislav Bakshanskij github stats](https://github-readme-stats.vercel.app/api?username=VladislavBakshanskij)
+![Most popular used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vladislavbakshanskij)
